@@ -1,0 +1,11 @@
+1#as31212312#Rede#1232131312
+4#as31212312#Rede#1232131312
+3#'2'12'12'12#Hardware#3'31131231
+4#nada com anda#Impressora#não anda nada
+2#titulo#Hardware#descriçao
+4#chamado user1#Software#teste teste
+1#12312312#Criação Usuário#123123
+4#testedegravacao#Criação Usuário#1231312
+1#n/a#Criação Usuário#n/a
+1#dsadsada#Criação Usuário#n/a
+1#n/a#Software#qeqweqweq
