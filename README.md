@@ -1,2 +1,2 @@
-# Uma aplicação simples para chamados de suporte com divisão de conta admin e usuário. Onde uma apenas visualiza suas requisições e a outra visualiza todas as chamadas disponíveis no repositorio local(com segurança no back-end). 
-desenvolvido com HTML, CSS, PHP e Bootstrap 
+# A simple application for support tickets with admin and user account division. Where one only sees your requests and the other sees all the calls available in the local repository (safely in the backend). 
+Developed with HTML, CSS, PHP and Bootstrap.
